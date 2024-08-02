@@ -1,0 +1,4 @@
+# robots.txt located in the public directory
+User-agent: *
+allow: /api/
+allow: /admin/
